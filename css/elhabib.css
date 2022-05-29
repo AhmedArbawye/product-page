@@ -430,7 +430,7 @@ nav{
 }
 @media(max-width:991px){
     #product .box-info .view h3{
-        font-weight:400;
+        font-weight:300;
     }
 }
 #product .box-info .view a{
