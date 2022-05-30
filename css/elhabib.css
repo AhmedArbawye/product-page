@@ -445,7 +445,7 @@ nav{
     font-weight: 900;
     position: absolute;
     top: 30%;
-    transform: translateX(30px);
+    transform: translateX(25px);
     font-size: 30px;
     color: rgb(59, 58, 58);
     animation: arrrow-move .5s linear  infinite ;
